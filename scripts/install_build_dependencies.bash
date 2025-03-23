@@ -72,3 +72,5 @@ make install
 ldconfig
 cd ..
 rm spdlog -Rf
+
+rm -rf /var/lib/apt/lists/*
